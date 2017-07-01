@@ -175,7 +175,8 @@ class XbrlParser(XBRLParser):
                             type_dict['to_href'].append(href_str)
                             type_dict['to_element_id'].append(href_str.split('#')[1].lower())
                             matches += 1
-                    if matches == 2: break
+                    if matches == 2:
+                        break
 
                 role_id = type_link_node.attrib['{'+namespaces['xlink']+'}role']
                 arcrole = type_arc_node.attrib['{'+namespaces['xlink']+'}arcrole']

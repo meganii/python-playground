@@ -219,6 +219,15 @@ class XbrlParser(XBRLParser):
         children = df.to_element_id.ix[df.from_element_id == parent]
         return children.append(children.apply(lambda x: self.gather_descendant(df, x)))
 
+    def recursive(self, array, df, parent_elem_id):
+        for val in df.to_element_id.loc[df.from_element_id == parent_elem_id].values:
+            array.append(val)
+            self.recursive(array, df, val)
+
+    def gather_r(self, df, parent):
+        children = df.to_element_id.ix[df.from_element_id == parent]
+        return children.apply(lambda x: self.gather_r(df, x))
+
     def get_specific_account_name_info(self, dat_fi, df_descendant):
         result = None
         for label_id in df_descendant.ix[:, 0].values:
@@ -228,6 +237,70 @@ class XbrlParser(XBRLParser):
                 result = result.append(dat_fi.ix[dat_fi.element_id == label_id, :],
                                        ignore_index=True)
         return result
+
+    def get_specific_account_name(self, dat_fi, elements):
+        result = None
+        for label_id in elements:
+            if result is None:
+                result = dat_fi.ix[dat_fi.element_id == label_id, :]
+            else:
+                result = result.append(dat_fi.ix[dat_fi.element_id == label_id, :],
+                                       ignore_index=True)
+        return result
+
+    def recursive(self, array, df, parent_elem_id):
+        for val in df.to_element_id.loc[df.from_element_id == parent_elem_id].values:
+            array.append(val)
+            self.recursive(array, df, val)
+
+    def get_hicharts_json(self, df_xbrl_ps_cbs, dat_fi_cyi):
+
+        series = []
+
+        currentassets = []
+        self.recursive(currentassets, df_xbrl_ps_cbs, 'jppfs_cor_currentassetsabstract')
+        currentassets_coa = self.get_specific_account_name(dat_fi_cyi, currentassets).query("label_role == 'http://www.xbrl.org/2003/role/label'")
+        for key, value in currentassets_coa[['label_string', 'amount']].values:
+            series.append({
+                'name': key,
+                'data': [value, None],
+                'stack': 'Credit'
+            })
+
+        noncurrentassets = []
+        self.recursive(noncurrentassets, df_xbrl_ps_cbs, 'jppfs_cor_noncurrentassetsabstract')
+        noncurrentassets_coa = self.get_specific_account_name(dat_fi_cyi, noncurrentassets).query("label_role == 'http://www.xbrl.org/2003/role/label'")
+        for key, value in noncurrentassets_coa[['label_string', 'amount']].values:
+            series.append({
+                'name': key,
+                'data': [value, None],
+                'stack': 'Credit'
+            })
+        
+
+        liabilities = []
+        self.recursive(liabilities, df_xbrl_ps_cbs, 'jppfs_cor_liabilitiesabstract')
+        liabilities_coa = self.get_specific_account_name(dat_fi_cyi, liabilities).query("label_role == 'http://www.xbrl.org/2003/role/label'")
+        for key, value in liabilities_coa[['label_string', 'amount']].values:
+            series.append({
+                'name': key,
+                'data': [value, None],
+                'stack': 'Debit'
+            })
+
+        netassets = []
+        self.recursive(netassets, df_xbrl_ps_cbs, 'jppfs_cor_netassetsabstract')
+        netassets_coa = self.get_specific_account_name(dat_fi_cyi, netassets).query("label_role == 'http://www.xbrl.org/2003/role/label'")
+        for key, value in netassets_coa[['label_string', 'amount']].values:
+            series.append({
+                'name': key,
+                'data': [value, None],
+                'stack': 'Debit'
+            })
+        
+        print(series)
+
+
 
 def main(namespaces):
     base_path = os.getcwd()+'/xbrl_files/'

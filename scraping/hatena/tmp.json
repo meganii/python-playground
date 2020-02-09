@@ -1,0 +1,3570 @@
+{
+  "entries": [
+    {
+      "url": "https://note.mu/kotofurumiya/n/n967fa61dbe34",
+      "screenshot": "https://b.st-hatena.com/images/v4/public/common/noimage.png?version=a52e4ccd2b2801a8d572f58ac6e5486b5f1cfc4d",
+      "count": 306,
+      "requested_url": "https://note.mu/kotofurumiya/n/n967fa61dbe34",
+      "eid": "4662505135693205793",
+      "title": "オブジェクト指向にメリットなんて存在しない｜古都こと｜note",
+      "bookmarks": [
+        {
+          "tags": [
+            "考え方"
+          ],
+          "user": "zyzy",
+          "comment": "有用な様々な技術をOOPという箱でくくるとかえってわけが分からなくなる、っていうのはJavaの残した負の遺産なんだろうな……いやそもそもC++かな、元凶は。FPの概念もこれに引きずられて同じ論争巻き起こしたし",
+          "timestamp": "2019/01/08 18:01"
+        },
+        {
+          "tags": [
+            "プログラミング系読物",
+            "ネタ"
+          ],
+          "timestamp": "2019/01/07 16:07",
+          "user": "masayoshinym",
+          "comment": ""
+        },
+        {
+          "tags": [
+            "プログラミング"
+          ],
+          "timestamp": "2019/01/07 08:52",
+          "comment": "",
+          "user": "alcus"
+        },
+        {
+          "timestamp": "2019/01/06 10:41",
+          "user": "wazanaka",
+          "comment": "",
+          "tags": [
+            "プログラミング"
+          ]
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/05 13:41",
+          "user": "septiembreokbj",
+          "comment": "すでに常識の考え方をメリットがないと扇情的におとしめるのは、PV稼ぎにしても品のないことだなあ。と思ったらJS村の人か。クラスベースOOPLがキライなら、そう素直に書けばいいのに。下品なのか、若いのか、両方か。"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/04 08:23",
+          "comment": "",
+          "user": "goto_haru"
+        },
+        {
+          "user": "koppamochi",
+          "comment": "",
+          "timestamp": "2019/01/04 01:52",
+          "tags": []
+        },
+        {
+          "tags": [
+            "プログラミング"
+          ],
+          "timestamp": "2019/01/03 12:41",
+          "comment": "",
+          "user": "mjtai"
+        },
+        {
+          "timestamp": "2019/01/03 08:55",
+          "user": "syuu256",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/02 20:59",
+          "user": "ohchang",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/02 18:43",
+          "comment": "",
+          "user": "chess-news",
+          "tags": []
+        },
+        {
+          "tags": [
+            "programming"
+          ],
+          "comment": "",
+          "user": "ettie",
+          "timestamp": "2019/01/02 11:29"
+        },
+        {
+          "tags": [
+            "PC・ゲーム・家電",
+            "thinking"
+          ],
+          "user": "asiamoth",
+          "comment": "オブジェクト指向は、「変数は箱」とかいうクソの撲滅には一役買っている。`A = 1.08; // Aは消費税率`みたいなコードはOOPでは存在しない──はず。むしろ初心者が学ぶと良さそう。",
+          "timestamp": "2019/01/02 10:42"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "izk_k",
+          "timestamp": "2019/01/02 09:27"
+        },
+        {
+          "timestamp": "2019/01/02 09:09",
+          "user": "winterfall",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/02 08:49",
+          "user": "kujiraneko28",
+          "comment": "\n"
+        },
+        {
+          "timestamp": "2019/01/02 07:50",
+          "user": "kibarashi9",
+          "comment": "まあ、いつもの煽ってPVとって、うちはPVめっちゃ稼いでて人気ってやりたいやつだろ。",
+          "tags": []
+        },
+        {
+          "tags": [
+            "java",
+            "オブジェクト指向"
+          ],
+          "timestamp": "2019/01/02 03:29",
+          "comment": "",
+          "user": "nagafuti"
+        },
+        {
+          "comment": "",
+          "user": "tjnet555",
+          "timestamp": "2019/01/02 01:01",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "keint",
+          "comment": "",
+          "timestamp": "2019/01/02 00:54"
+        },
+        {
+          "user": "peketamin",
+          "comment": "",
+          "timestamp": "2019/01/02 00:44",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/02 00:44",
+          "user": "hachibeechan",
+          "comment": "\"オブジェクト指向に厳密な定義は存在せず\" / なのでオブジェクト指向言語に対する批判がそもそも成り立たない（相手がふわふわしてるから）"
+        },
+        {
+          "timestamp": "2019/01/02 00:38",
+          "user": "Isuzu_T",
+          "comment": "プログラミング界における魔境の一つオブジェクト指向湿原。ここではすばらしい知見を得たという話と、定義論争の底なし沼にはまって二度と出られなかったという話が半々で聞かれる恐ろしい場所だ……",
+          "tags": [
+            "ネタ"
+          ]
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "kane_to_onna",
+          "timestamp": "2019/01/02 00:10"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/02 00:01",
+          "comment": "",
+          "user": "maltesergeezer"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 23:36",
+          "user": "freemywaysan",
+          "comment": ""
+        },
+        {
+          "comment": "『マルチパラダイムって言ってもだいたいあれだよ。オブジェクト指向をベースにして他のパラダイムの要素をちょくちょく取り入れたのがほとんど。実質オブジェクト指向』",
+          "user": "kts56",
+          "timestamp": "2019/01/01 23:10",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 23:01",
+          "user": "kun_p",
+          "comment": "構造化はオブジェクト内で使われるし、関数型はオブジェクト指向と併用するし、それぞれ道具をどう使うかの問題なんじゃないの？"
+        },
+        {
+          "timestamp": "2019/01/01 22:59",
+          "comment": "",
+          "user": "Wacky",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 22:57",
+          "comment": "こんなタイトルなのにこんなんじゃダメだよ。staticおじさんくらい全力で間違ったこと言わないと。",
+          "user": "zz_sexy"
+        },
+        {
+          "tags": [
+            "note"
+          ],
+          "comment": "何この中身のない記事",
+          "user": "kniphofia",
+          "timestamp": "2019/01/01 22:56"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 22:50",
+          "comment": "",
+          "user": "roughigh"
+        },
+        {
+          "user": "htbman",
+          "comment": "コードで議論してくれー",
+          "timestamp": "2019/01/01 22:28",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "poi_nichijo",
+          "comment": "",
+          "timestamp": "2019/01/01 22:25"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 22:17",
+          "comment": "抽象化する能力に欠ける人は、プログラマになってはいけない。",
+          "user": "jintrick"
+        },
+        {
+          "timestamp": "2019/01/01 22:07",
+          "user": "hitsujiniku-sugita",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 22:03",
+          "comment": "否定できるだけ概念を言語化出来ているなら価値があると思うが",
+          "user": "kaakaa_hoe"
+        },
+        {
+          "tags": [],
+          "user": "motefu",
+          "comment": "",
+          "timestamp": "2019/01/01 22:00"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 21:56",
+          "comment": "原理主義者に宗教儀式を強要されるとほんと萎えるけど、それはオブジェクト指向に限らない。端的に言うと、可読性を犠牲にしてオブジェクト単位の再利用性を上げるのがオブジェクト指向。他の要素についてはクソ。",
+          "user": "hdampty7"
+        },
+        {
+          "tags": [
+            "プログラミング",
+            "あとで読む",
+            "オブジェクト指向"
+          ],
+          "timestamp": "2019/01/01 21:42",
+          "comment": "",
+          "user": "Rela24"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 21:41",
+          "comment": "",
+          "user": "cheeruplgbt"
+        },
+        {
+          "user": "ntstn",
+          "comment": "OOPはよく分からんままプログラムが上達したら勝手にたどり着いてた。",
+          "timestamp": "2019/01/01 21:23",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 21:22",
+          "user": "kojikoji75",
+          "comment": ""
+        },
+        {
+          "user": "morita_non",
+          "comment": "銀の弾丸が無いように、どんな場面でも上手く行かないみたいな逆銀の弾丸もまた無いように思う。まあでもクラス指向は確かにいらんな。",
+          "timestamp": "2019/01/01 21:06",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "yetch",
+          "comment": "別のパラダイムってオブジェクト指向は前提でそのデメリットを解消しようとして出来てるから、ちゃんと使おうとするとどうせ学習する羽目になる。",
+          "timestamp": "2019/01/01 21:01"
+        },
+        {
+          "timestamp": "2019/01/01 20:58",
+          "user": "hashibirock",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 20:53",
+          "comment": "20年前にOOPが偉大だったのは階層的な名前空間とADTが扱えるほぼ唯一の手段だったこと。ただし欠点も多かった。現代ではもっと優れた道具がある。",
+          "user": "a235",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "Flame1980",
+          "timestamp": "2019/01/01 20:48",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "s99e209",
+          "timestamp": "2019/01/01 20:47"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "kart0408001",
+          "timestamp": "2019/01/01 20:44"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 20:34",
+          "user": "sekaiiti",
+          "comment": ""
+        },
+        {
+          "comment": "",
+          "user": "hatekai",
+          "timestamp": "2019/01/01 20:32",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 20:20",
+          "comment": "",
+          "user": "Hiro_Matsuno"
+        },
+        {
+          "timestamp": "2019/01/01 20:12",
+          "comment": "",
+          "user": "htenakh",
+          "tags": []
+        },
+        {
+          "comment": "オブジェクト指向の本質について理解できてなさそうな文書",
+          "user": "ichiken7",
+          "timestamp": "2019/01/01 20:00",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 19:52",
+          "user": "REV",
+          "comment": "「三流が汚く書いた構造化プログラミングより、一流がキレイに書いた非構造化プログラミングの方がバグ無しにきちんと動く」って碑文が古代エジプトの発掘現場から出てきたので驚くようなことでもない。"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "yancy1969",
+          "comment": "",
+          "timestamp": "2019/01/01 19:48"
+        },
+        {
+          "timestamp": "2019/01/01 19:41",
+          "user": "riawiththesam",
+          "comment": "メッセージを送り合うという考えだと〇〇Managerとか大量に作りがち",
+          "tags": []
+        },
+        {
+          "tags": [
+            "web",
+            "IT"
+          ],
+          "timestamp": "2019/01/01 19:31",
+          "comment": "ひでー記事ではあるが、ここで言われていることが全くのデタラメというわけではない。もっとちゃんと書いたら？（バズらんだろうけど）",
+          "user": "NOV1975"
+        },
+        {
+          "user": "y58455",
+          "comment": "",
+          "timestamp": "2019/01/01 19:08",
+          "tags": []
+        },
+        {
+          "tags": [
+            "プログラミング"
+          ],
+          "comment": "",
+          "user": "pigma04",
+          "timestamp": "2019/01/01 19:06"
+        },
+        {
+          "timestamp": "2019/01/01 18:59",
+          "user": "ntaoo",
+          "comment": "オブジェクト指向は、AIがただのCSになっていったように、現代ソフトウェア工学になっただけでは。研究領域ではまた違った様相が見れるけど。Javaは、オブジェクト指向を中途半端にサポートした言語",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "yasuhiro1212",
+          "timestamp": "2019/01/01 18:58"
+        },
+        {
+          "comment": "藁人形と勘違いの塊としか認識できないエントリだが。関数だって広義のオブジェクトだわ。",
+          "user": "Pz-4",
+          "timestamp": "2019/01/01 18:57",
+          "tags": [
+            "一知半解"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 18:50",
+          "user": "kizimuna06",
+          "comment": "個人的にはデジタルと現実を上手く扱うために良くできていると思うけどな。特に様々なデータを扱う時に良いと思える。",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "hateqseiya",
+          "timestamp": "2019/01/01 18:48",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "mizukmb",
+          "comment": "",
+          "timestamp": "2019/01/01 18:30"
+        },
+        {
+          "timestamp": "2019/01/01 18:17",
+          "user": "memoyashi",
+          "comment": "",
+          "tags": [
+            "あとで読む",
+            "プログラミング"
+          ]
+        },
+        {
+          "user": "marukun700",
+          "comment": "",
+          "timestamp": "2019/01/01 17:54",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "user": "pearchang",
+          "comment": "",
+          "timestamp": "2019/01/01 17:54"
+        },
+        {
+          "tags": [],
+          "comment": "プログラミングに向かないのは筆者だったというオチか",
+          "user": "lastline",
+          "timestamp": "2019/01/01 17:53"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "little_dove1102",
+          "comment": "",
+          "timestamp": "2019/01/01 17:43"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 17:39",
+          "comment": "継承を使ったことのない者だけがオブジェクト指向に石を投げなさい",
+          "user": "blunote"
+        },
+        {
+          "timestamp": "2019/01/01 17:29",
+          "comment": "",
+          "user": "narita1980",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "comment": "",
+          "user": "spottedick30617",
+          "timestamp": "2019/01/01 17:19",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 17:16",
+          "user": "dmow44",
+          "comment": ""
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 17:14",
+          "comment": "",
+          "user": "tanaboo"
+        },
+        {
+          "timestamp": "2019/01/01 17:00",
+          "comment": "",
+          "user": "factam",
+          "tags": [
+            "プログラミング",
+            "オブジェクト指向"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 16:49",
+          "comment": "ソースをパクれる、というのがオブジェクト指向の特徴ですやんか。",
+          "user": "tiisanaoppai",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 16:47",
+          "user": "vac201",
+          "comment": "マルチパラダイムプログラミング言語という言葉を始めて聞いたよ。教えてくれてありがと。オブジェクト指向の概念とかルールは、共同作業においては非常に有効だと思う。"
+        },
+        {
+          "timestamp": "2019/01/01 16:42",
+          "user": "chankuri",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "comment": "なんか小汚い言葉使っただけの駄文。",
+          "user": "kazoo_net14",
+          "timestamp": "2019/01/01 16:38",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 16:37",
+          "comment": "",
+          "user": "kenyuy",
+          "tags": [
+            "オブジェクト指向",
+            "Java"
+          ]
+        },
+        {
+          "comment": "",
+          "user": "lepton9",
+          "timestamp": "2019/01/01 16:27",
+          "tags": [
+            "programming"
+          ]
+        },
+        {
+          "tags": [],
+          "user": "ug_idol",
+          "comment": "",
+          "timestamp": "2019/01/01 16:27"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "megomego",
+          "comment": "",
+          "timestamp": "2019/01/01 16:23"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 16:16",
+          "comment": "",
+          "user": "takasago08"
+        },
+        {
+          "timestamp": "2019/01/01 16:16",
+          "comment": "",
+          "user": "tokoyax",
+          "tags": []
+        },
+        {
+          "user": "shinsyun_3771",
+          "comment": "SOLID原則について学ぶべきだと思う",
+          "timestamp": "2019/01/01 16:15",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 16:15",
+          "comment": "OOPはGUI黎明期と相性が良かった。ゲームみたいな自律的に動くキャラとは今でも親和性が高い。問題は状態が分散して複雑化しやすくテストしづらいことで、WebやスマホアプリとかはOOP薄めが良いという流れだと思う。",
+          "user": "aike"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 16:08",
+          "user": "Nobeee",
+          "comment": ""
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 16:04",
+          "user": "yuuntim",
+          "comment": "とりあえず、具体的な話がなく雑。もう少し個別の話をしないと、「犬がワン」の論と本質的には大して変わらんよ。"
+        },
+        {
+          "timestamp": "2019/01/01 16:01",
+          "user": "yamada_shirou",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "comment": "",
+          "user": "Cormorant",
+          "timestamp": "2019/01/01 16:01",
+          "tags": [
+            "*text",
+            "*program",
+            "オブジェクト指向",
+            "開発"
+          ]
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 16:00",
+          "comment": "内容は置いといて読み物として面白い",
+          "user": "koogawa"
+        },
+        {
+          "tags": [],
+          "user": "kikuchi1201",
+          "comment": "",
+          "timestamp": "2019/01/01 15:46"
+        },
+        {
+          "tags": [
+            "これはひどい",
+            "ネタ"
+          ],
+          "comment": "Oops!",
+          "user": "miurakuraki",
+          "timestamp": "2019/01/01 15:46"
+        },
+        {
+          "comment": "うへぇ",
+          "user": "zakinco",
+          "timestamp": "2019/01/01 15:44",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 15:41",
+          "comment": "",
+          "user": "cabbage0110"
+        },
+        {
+          "tags": [],
+          "user": "PUTTYO",
+          "comment": "",
+          "timestamp": "2019/01/01 15:38"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 15:35",
+          "user": "konpyu",
+          "comment": ""
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 15:31",
+          "comment": "",
+          "user": "iwa-sou-3612"
+        },
+        {
+          "timestamp": "2019/01/01 15:28",
+          "comment": "",
+          "user": "s_dai",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "全く馬鹿だなあ。関数型にだってメリット存在しないぞそんなこと言ったら。",
+          "user": "gnety",
+          "timestamp": "2019/01/01 15:17"
+        },
+        {
+          "timestamp": "2019/01/01 15:14",
+          "comment": "",
+          "user": "tksuuu",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [
+            "オブジェクト指向"
+          ],
+          "comment": "普通に使われているからもうメリットはないというのは何か違うと思う。構造化プログラミングはそれをしない方が難しいほど普通になったけどそれ自体のメリットがなくなった訳ではない。",
+          "user": "rryu",
+          "timestamp": "2019/01/01 15:01"
+        },
+        {
+          "tags": [],
+          "user": "aaa1234567",
+          "comment": "",
+          "timestamp": "2019/01/01 14:54"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 14:49",
+          "comment": "",
+          "user": "yopon"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 14:13",
+          "user": "aemi246",
+          "comment": ""
+        },
+        {
+          "timestamp": "2019/01/01 14:06",
+          "comment": "",
+          "user": "kazufsaf",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "comment": "OOPは別に「メッセージを送信し合う」って説明でいいのでは？ メッセージをどのように送るべきかはOOP設計のプラクティスの話かなと",
+          "user": "otakumesi",
+          "timestamp": "2019/01/01 14:06"
+        },
+        {
+          "timestamp": "2019/01/01 14:02",
+          "comment": "",
+          "user": "worpe",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 14:00",
+          "comment": "",
+          "user": "chibiyann"
+        },
+        {
+          "timestamp": "2019/01/01 13:53",
+          "comment": "",
+          "user": "jun700614",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 13:51",
+          "comment": "",
+          "user": "k92aki1004",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "neet_modi_ki",
+          "comment": "",
+          "timestamp": "2019/01/01 13:50"
+        },
+        {
+          "timestamp": "2019/01/01 13:33",
+          "user": "nunulk",
+          "comment": "説明するときに比喩に頼らざるを得ないほどオブジェクト指向は理解するのが難しいということなのかもしれない",
+          "tags": [
+            "オブジェクト指向"
+          ]
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 13:32",
+          "comment": "",
+          "user": "ymm1x"
+        },
+        {
+          "user": "sapuco",
+          "comment": "",
+          "timestamp": "2019/01/01 13:27",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 13:25",
+          "comment": "",
+          "user": "o120f",
+          "tags": []
+        },
+        {
+          "comment": "9年前そんな疑問をブログで呈した人がいたが大炎上した。それとこれとは別なのかも知れないが、よってたかって彼を攻撃した人達はすっかり改宗しちゃったのかしら？http://el.jibun.atmarkit.co.jp/minagawa/2010/04/post-ebc4.html",
+          "user": "zgmf-x20a",
+          "timestamp": "2019/01/01 13:20",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 13:17",
+          "user": "k-saijoh",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 13:10",
+          "user": "mstk_knife",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "user": "vcto29",
+          "comment": "",
+          "timestamp": "2019/01/01 13:08",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 13:04",
+          "comment": "言いたいことは分かるけど、もうちょい背景含め丁寧に伝えないとオブジェクト指向おじさんには伝わらないんじゃないかなー。",
+          "user": "snowcrush",
+          "tags": []
+        },
+        {
+          "user": "Futaro99",
+          "comment": "なんか可哀想",
+          "timestamp": "2019/01/01 13:03",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "jhagio",
+          "timestamp": "2019/01/01 12:59",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [
+            "オブジェクト指向",
+            "プログラミング",
+            "考え方"
+          ],
+          "comment": "書いてる事はまぁまぁわかるがタイトルで煽りすぎ",
+          "user": "sds-page",
+          "timestamp": "2019/01/01 12:53"
+        },
+        {
+          "timestamp": "2019/01/01 12:51",
+          "comment": "アラン・ケイのメッセージング指向の方と、抽象データ型の方は分けて考えないと、な案件では",
+          "user": "tumo300-500",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "e10kg",
+          "comment": "",
+          "timestamp": "2019/01/01 12:48"
+        },
+        {
+          "timestamp": "2019/01/01 12:39",
+          "comment": "では何を選択するのかな?っと思い、最後まで斜め読んだが書いてなかった",
+          "user": "royzumi",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 12:37",
+          "user": "trumpet-the-best",
+          "comment": ""
+        },
+        {
+          "comment": "",
+          "user": "tea7010",
+          "timestamp": "2019/01/01 12:32",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "user": "comp123jp",
+          "comment": "フレームワーク作るのには便利だったと思ったけど、今は違うのかな？",
+          "timestamp": "2019/01/01 12:30",
+          "tags": []
+        },
+        {
+          "comment": "大西洋は飛行機で数時間で横断できるからコロンブスの航海は無駄だった！\nって聞こえる",
+          "user": "k-wacky76",
+          "timestamp": "2019/01/01 12:29",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 12:25",
+          "user": "hyujico",
+          "comment": "オブジェクト指向の要素って、カプセル化、ポリモーフィズム、継承じゃないのか"
+        },
+        {
+          "user": "uehaj",
+          "comment": "OOPと相反するわけではないが、不変データ構造サポートが貧弱な言語やライブラリに散見される、罪悪感のない野生の状態管理にはうっとなることも。伝統的で素朴なOOPが眼中としてない領域の存在は知っておくべき",
+          "timestamp": "2019/01/01 12:24",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "sekido1",
+          "comment": "",
+          "timestamp": "2019/01/01 12:23"
+        },
+        {
+          "user": "codingdead",
+          "comment": "",
+          "timestamp": "2019/01/01 12:22",
+          "tags": []
+        },
+        {
+          "tags": [
+            "programming"
+          ],
+          "timestamp": "2019/01/01 12:22",
+          "comment": "",
+          "user": "mieki256"
+        },
+        {
+          "tags": [
+            "プログラミング",
+            "オブジェクト指向"
+          ],
+          "timestamp": "2019/01/01 12:13",
+          "comment": "オブジェクト指向という言葉に捉われなければいい。",
+          "user": "reannkara"
+        },
+        {
+          "user": "tarotheripper",
+          "comment": "",
+          "timestamp": "2019/01/01 12:04",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む",
+            "プログラミング"
+          ],
+          "user": "bluesky959",
+          "comment": "",
+          "timestamp": "2019/01/01 11:52"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 11:52",
+          "comment": "オブジェクト指向そのものではなく\nその教育がおかしいという話と、オブジェクト指向設計原則なり周辺の知識が抜け落ちた状態で突き進んだオブジェクト指向プログラミングの話題を挙げてる気がするんだけどなあ…",
+          "user": "satmat"
+        },
+        {
+          "comment": "なんか書かれてることいろいろとひと昔前な感じする",
+          "user": "taqpan",
+          "timestamp": "2019/01/01 11:51",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 11:49",
+          "comment": "",
+          "user": "L3msh0"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 11:39",
+          "comment": "FortranやCOBOLで書けるかな(棒",
+          "user": "sakidatsumono"
+        },
+        {
+          "comment": "",
+          "user": "nebulax0x0",
+          "timestamp": "2019/01/01 11:33",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "kiichi69251",
+          "comment": "",
+          "timestamp": "2019/01/01 11:32"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 11:31",
+          "comment": "",
+          "user": "posbin"
+        },
+        {
+          "user": "otherworld",
+          "comment": "記事の内容はちょっと辛いものがある…。OOPにとってデザインパターンとかのほうがおまけで、本質はメッセージパッシングだと思うのだけど、その辺を「お察し…」みたいに言ってる人もいるのが気になる。",
+          "timestamp": "2019/01/01 11:30",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 11:29",
+          "user": "quodius",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 11:29",
+          "comment": "",
+          "user": "p-baleine",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 11:28",
+          "user": "shironeko_t",
+          "comment": "一度非OOPで書くと有り難みがわかるやつ。"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 11:27",
+          "comment": "マルチパラダイムってOOPは大前提になってるので、この認識だと辛いんじゃないかなあと思う。",
+          "user": "yun2dot0"
+        },
+        {
+          "comment": "あの時代、「犬と猫がわんにゃー」的な説明をトクトクとしていた人達が本当にいたのでなー。彼らは今何してるんだろ。",
+          "user": "kmaebashi",
+          "timestamp": "2019/01/01 11:20",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "junpeso",
+          "comment": "OOP否定すると一部の主要なミドルウェア使えなくなるぞ",
+          "timestamp": "2019/01/01 11:17"
+        },
+        {
+          "timestamp": "2019/01/01 11:14",
+          "user": "yuusuke0107",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 11:12",
+          "comment": "これだけじゃ分からんからポケモンとかで例えてくれ",
+          "user": "soluterf2334"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 11:06",
+          "comment": "初心者にとって既存のAPIを扱うならオブジェクト指向のほうが楽だと思います。オブジェクトが命令を持っているのは直感的みたいです。／抽象化の手段として適切というのがいい表現でした。",
+          "user": "dexia2"
+        },
+        {
+          "comment": "",
+          "user": "parity88",
+          "timestamp": "2019/01/01 11:04",
+          "tags": [
+            "Java",
+            "オブジェクト指向",
+            "ネタ"
+          ]
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 10:56",
+          "comment": "どんな言語でも同じような動きを実装できるけど、javaは言語の仕様で設計(こう作れ)をかなり縛っていると感じたので、縛られることが嫌いな人は嫌いだろうなあ。",
+          "user": "mori99"
+        },
+        {
+          "comment": "",
+          "user": "Hayashiya",
+          "timestamp": "2019/01/01 10:46",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 10:44",
+          "comment": "",
+          "user": "ygt1qa3",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "tonkotutarou",
+          "timestamp": "2019/01/01 10:40"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "TaaaaK",
+          "timestamp": "2019/01/01 10:40"
+        },
+        {
+          "timestamp": "2019/01/01 10:37",
+          "comment": "",
+          "user": "htsnul",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 10:35",
+          "user": "akira28",
+          "comment": ""
+        },
+        {
+          "timestamp": "2019/01/01 10:31",
+          "user": "Mint0A0yama",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 10:29",
+          "comment": "純粋なOOPに拘るメリットは乏しいよねという論旨に読めるのでタイトルと乖離してるような……。あと主張とエピソードは整理された方が読みやすいと思われ",
+          "user": "sugawara1991"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 10:26",
+          "user": "kenichi_odo",
+          "comment": "ポリモーフィズムとか使える時は使えるけど書いてる時地獄だし後から読み返しても地獄"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 10:08",
+          "comment": "",
+          "user": "tsutsumi154"
+        },
+        {
+          "tags": [],
+          "user": "powerbombkun",
+          "comment": "",
+          "timestamp": "2019/01/01 10:07"
+        },
+        {
+          "comment": "",
+          "user": "cl-gaku",
+          "timestamp": "2019/01/01 09:50",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 09:49",
+          "user": "nukosan555",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 09:45",
+          "user": "ledlizerd",
+          "comment": ""
+        },
+        {
+          "tags": [
+            "programming",
+            "考察",
+            "要保存"
+          ],
+          "comment": "",
+          "user": "sc3wp06ga",
+          "timestamp": "2019/01/01 09:41"
+        },
+        {
+          "user": "hurafula",
+          "comment": "",
+          "timestamp": "2019/01/01 09:28",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "comment": "メリットがないくらいに一般化しているともいえる",
+          "user": "dexil",
+          "timestamp": "2019/01/01 09:18",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 09:11",
+          "user": "thesecret3",
+          "comment": "抽象化、モデルの概念のないオブジェクト指向の説明って何の意味があるのやら。猫がニャーこそが本質で、売上を計上したり、ゲームがしたいのであって、CPUを動かしたいわけではない。という宗派に私はいます。",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 08:59",
+          "comment": "これはこんな専門学校卒レベルで語ってはダメな話題。DDDのメリットデメリット解説できるぐらいになったらもう一度チャレンジしに来てみてね。",
+          "user": "caynan",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 08:54",
+          "comment": "オブジェクト指向って最初に聞いた時には混乱した。既に効率的な書き方としてやってたことがそれにあたると気づいた時にズッコケたのを覚えている。",
+          "user": "yoiIT"
+        },
+        {
+          "comment": "",
+          "user": "buell",
+          "timestamp": "2019/01/01 08:51",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 08:49",
+          "comment": "",
+          "user": "samuraisalad"
+        },
+        {
+          "user": "ch1248",
+          "comment": "suminさんの爪の垢を飲ます案件。皆病気になってないからワクチン不必要って位に雑な主張。/これでも読め。http://d.hatena.ne.jp/minekoa/touch/20090120/1232478685",
+          "timestamp": "2019/01/01 08:46",
+          "tags": [
+            "ネタ",
+            "OO",
+            "論",
+            "*clip"
+          ]
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "kujoo",
+          "timestamp": "2019/01/01 08:42"
+        },
+        {
+          "timestamp": "2019/01/01 08:38",
+          "comment": "Lispとか(多分、Haskellも)書くとprefix地獄になるよね。オブ指向はスコープの表現が便利//オブ指向の入門で猫がニャーはちょっとね。継承は便利な機能だけどオブ指向の本質ではない",
+          "user": "UhoNiceGuy",
+          "tags": [
+            "オブジェクト指向",
+            "プログラミング",
+            "開発"
+          ]
+        },
+        {
+          "comment": "",
+          "user": "xai1981",
+          "timestamp": "2019/01/01 08:35",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "comment": "",
+          "user": "takahiro665",
+          "timestamp": "2019/01/01 08:28",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "user": "sgo2",
+          "comment": "補完機能と相性が良いというメリットがある。",
+          "timestamp": "2019/01/01 08:23",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 08:23",
+          "comment": "",
+          "user": "yk5656",
+          "tags": [
+            "オブジェクト指向"
+          ]
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 08:20",
+          "comment": "",
+          "user": "ant_mugi"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 08:19",
+          "user": "tadasukeneko",
+          "comment": ""
+        },
+        {
+          "timestamp": "2019/01/01 08:13",
+          "user": "gologius",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "NSTanechan",
+          "timestamp": "2019/01/01 07:49",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "user": "hogeaegxa",
+          "comment": "何のメリットもないのに、多態やデザパタは勉強しないといけないし現場でもバリバリ使うのか。なんか半端だな。Javaディスしたいだけなら切り口間違ってるんじゃないか。",
+          "timestamp": "2019/01/01 07:39",
+          "tags": []
+        },
+        {
+          "comment": "Javaは今でもシェア高いよ。",
+          "user": "uzusayuu",
+          "timestamp": "2019/01/01 07:37",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 07:33",
+          "comment": "オブジェクト指向自体はとても有用だけど, 学習が大変なのはあるかもしれない",
+          "user": "trashtoy",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 07:30",
+          "comment": "カプセル化とポリモーフィズムがオブジェクト指向の肝なので、そこを肯定してるならオブジェクト指向肯定してるのと一緒でしょ。",
+          "user": "tpircs"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 07:23",
+          "comment": "",
+          "user": "orancora"
+        },
+        {
+          "user": "shozzy",
+          "comment": "Javaの話しかしてない印象",
+          "timestamp": "2019/01/01 06:37",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "ddfdfhb",
+          "timestamp": "2019/01/01 06:31",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 06:21",
+          "comment": "オブジェクト指向とオブジェクト指向言語の作法ががごっちゃになって混乱を招くんだよなあ",
+          "user": "degucho",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "yuki_furu",
+          "timestamp": "2019/01/01 05:59",
+          "tags": []
+        },
+        {
+          "comment": "オブジェクト指向って酷い説明をしてる本が多くて、それだけを読んで間違った理解してるんだろなという印象。しっかり理解してたら「互いにメッセージを送信しあって」て説明しないよね。",
+          "user": "taka_zyawa",
+          "timestamp": "2019/01/01 05:50",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 05:47",
+          "comment": "",
+          "user": "tatatayou",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 05:43",
+          "user": "onesplat",
+          "comment": "ヤベーやつ来た"
+        },
+        {
+          "timestamp": "2019/01/01 05:37",
+          "comment": "",
+          "user": "masaph",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "Tomosugi",
+          "timestamp": "2019/01/01 05:19"
+        },
+        {
+          "comment": "",
+          "user": "takasian_pride",
+          "timestamp": "2019/01/01 05:09",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "user": "snaflot",
+          "comment": "",
+          "timestamp": "2019/01/01 05:09"
+        },
+        {
+          "user": "yatata",
+          "comment": "",
+          "timestamp": "2019/01/01 05:08",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "kojietta",
+          "timestamp": "2019/01/01 04:55"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "delimiter",
+          "timestamp": "2019/01/01 04:02"
+        },
+        {
+          "timestamp": "2019/01/01 03:14",
+          "comment": "「工作機械がなくてもノコギリとカナヅチがあればいいだろ」みたいな感じがあるなあ。それでいい場面があるのは事実だが、マルチパラダイムって、普通にオブジェクト指向が含まれてるよね。",
+          "user": "mohno",
+          "tags": [
+            "note",
+            "古都こと",
+            "開発",
+            "プログラミング",
+            "タンポポ",
+            "ネタ",
+            "オブジェクト指向"
+          ]
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 03:06",
+          "comment": "",
+          "user": "ytsmy"
+        },
+        {
+          "timestamp": "2019/01/01 03:04",
+          "user": "peppers_white",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "user": "srng",
+          "comment": "定番のanimalクラスとpersonクラスは挫折を生む第一歩だと思う",
+          "timestamp": "2019/01/01 02:57",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "oddvolume",
+          "timestamp": "2019/01/01 02:53"
+        },
+        {
+          "comment": "",
+          "user": "khtno73",
+          "timestamp": "2019/01/01 02:51",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "shiopon01",
+          "comment": "",
+          "timestamp": "2019/01/01 02:25"
+        },
+        {
+          "comment": "",
+          "user": "yuzu441",
+          "timestamp": "2019/01/01 02:15",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "taiyo-k",
+          "comment": "",
+          "timestamp": "2019/01/01 01:51"
+        },
+        {
+          "tags": [
+            "programming"
+          ],
+          "comment": "「コンポーネントの再利用性なんてC言語でも普通に実現できるだろ」← まあ、そういうことが普通に出来る人には不要だわな",
+          "user": "hobbiel55",
+          "timestamp": "2019/01/01 01:35"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 01:25",
+          "user": "hitac",
+          "comment": "抽象化の手法の一つとしては有益なんで、その程度に捉えておけばいい。もうそろそろもっと新しいパラダイムも含めて重要なところだけがまとまったテキストとか欲しいところだけど、今の所デザパタ本とかだね。"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 01:04",
+          "user": "rgfx",
+          "comment": "わかるwww大仰すぎんだよw要るとこだけ使え、言語やパラダイムの使いっぱしりさせられてんなよなwwwwww"
+        },
+        {
+          "tags": [],
+          "timestamp": "2018/12/31 22:53",
+          "comment": "“「犬がワンで猫がニャー」とか「太郎くんクラスが」とかもう見たくねえよ。終わりにしよう。なあ。”",
+          "user": "tmyk_kym"
+        }
+      ],
+      "entry_url": "https://b.hatena.ne.jp/entry/s/note.mu/kotofurumiya/n/n967fa61dbe34"
+    },
+    {
+      "url": "https://bijutsutecho.com/magazine/news/headline/19085",
+      "entry_url": "https://b.hatena.ne.jp/entry/s/bijutsutecho.com/magazine/news/headline/19085",
+      "screenshot": "https://b.st-hatena.com/images/v4/public/common/noimage.png?version=a52e4ccd2b2801a8d572f58ac6e5486b5f1cfc4d",
+      "eid": "4662481372174868033",
+      "bookmarks": [
+        {
+          "comment": "",
+          "tags": [
+            "3d",
+            "material",
+            "art",
+            "gadget",
+            "oss"
+          ],
+          "timestamp": "2019/01/14 14:44",
+          "user": "donotthinkfeel"
+        },
+        {
+          "user": "saunology",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2019/01/09 10:09"
+        },
+        {
+          "timestamp": "2019/01/07 23:20",
+          "comment": "",
+          "tags": [],
+          "user": "piro_suke"
+        },
+        {
+          "user": "azumakuniyuki",
+          "timestamp": "2019/01/04 04:50",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": ""
+        },
+        {
+          "user": "kasuho",
+          "timestamp": "2019/01/03 23:28",
+          "tags": [],
+          "comment": "STLデータはこちら（http://jomon-supporters.jp/open-source/）から。「九州国立博物館・大塚オーミ陶業株式会社・長岡市の共同研究で作成した3次元精密計測データを活用」とのこと。こっちの詳細な報告書ないのかな。"
+        },
+        {
+          "timestamp": "2019/01/03 19:43",
+          "tags": [],
+          "comment": "もっと時代が進めば、匂いとか味のプリントも普通になるのかな",
+          "user": "nyoron0128"
+        },
+        {
+          "user": "keint",
+          "timestamp": "2019/01/02 22:17",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "user": "alexam",
+          "timestamp": "2019/01/01 21:49",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "tags": [],
+          "timestamp": "2019/01/01 20:10",
+          "user": "moonbeam44"
+        },
+        {
+          "comment": "",
+          "tags": [
+            "history",
+            "3D"
+          ],
+          "timestamp": "2019/01/01 18:10",
+          "user": "gogatsu26"
+        },
+        {
+          "timestamp": "2019/01/01 16:08",
+          "comment": "",
+          "tags": [
+            "3D"
+          ],
+          "user": "TakayukiN627"
+        },
+        {
+          "user": "hokuto-hei",
+          "timestamp": "2019/01/01 15:54",
+          "comment": "私は3Dを扱う環境がないのでなんともだけど、結構使いでがありそう。",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 15:10",
+          "tags": [],
+          "comment": "",
+          "user": "fukada_h"
+        },
+        {
+          "tags": [],
+          "comment": "これを待ってた",
+          "timestamp": "2019/01/01 14:26",
+          "user": "venom"
+        },
+        {
+          "user": "asyst",
+          "timestamp": "2019/01/01 13:43",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "user": "hal7pi",
+          "tags": [
+            "3D",
+            "歴史"
+          ],
+          "comment": "",
+          "timestamp": "2019/01/01 12:50"
+        },
+        {
+          "user": "pikopikopan",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2019/01/01 10:20"
+        },
+        {
+          "user": "tzk2106",
+          "tags": [],
+          "comment": "3Dプリンタでミニチュア土器量産したい。",
+          "timestamp": "2019/01/01 10:15"
+        },
+        {
+          "user": "gorgeous1020",
+          "comment": "vtyuber「縄文土器割ってみた」",
+          "tags": [],
+          "timestamp": "2019/01/01 10:14"
+        },
+        {
+          "timestamp": "2019/01/01 10:09",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "nukosan555"
+        },
+        {
+          "tags": [
+            "データ"
+          ],
+          "comment": "これで縄文土器先生が！！",
+          "timestamp": "2019/01/01 09:58",
+          "user": "lassicmatsujun"
+        },
+        {
+          "user": "G1Xir3um",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 09:21"
+        },
+        {
+          "timestamp": "2019/01/01 08:58",
+          "comment": "",
+          "tags": [],
+          "user": "nornorko"
+        },
+        {
+          "timestamp": "2019/01/01 08:32",
+          "tags": [],
+          "comment": "",
+          "user": "editor_t"
+        },
+        {
+          "user": "poko_pen",
+          "comment": "時々土器を作りたくなるドキドキ感",
+          "tags": [],
+          "timestamp": "2019/01/01 08:28"
+        },
+        {
+          "user": "noritechi2",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 08:14"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2019/01/01 08:07",
+          "user": "colonoe"
+        },
+        {
+          "timestamp": "2019/01/01 07:58",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "fuji_haruka"
+        },
+        {
+          "timestamp": "2019/01/01 07:51",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "wackunnpapa"
+        },
+        {
+          "user": "yuuki_mito",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 07:50"
+        },
+        {
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 07:35",
+          "user": "norakyuuri"
+        },
+        {
+          "user": "nucleotide",
+          "timestamp": "2019/01/01 07:03",
+          "comment": "",
+          "tags": [
+            "あとで読む",
+            "デザイン"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 06:57",
+          "comment": "面白い。3Dプリントしようかな。",
+          "tags": [],
+          "user": "yo2012"
+        },
+        {
+          "comment": "出落ちのようなじわじわくるようなタイトルｗ",
+          "tags": [
+            "ｗ"
+          ],
+          "timestamp": "2019/01/01 05:39",
+          "user": "sigrain"
+        },
+        {
+          "user": "masaph",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 05:36"
+        },
+        {
+          "user": "share_stream",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2019/01/01 05:36"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2019/01/01 04:52",
+          "user": "evernotena"
+        },
+        {
+          "user": "yachimon",
+          "comment": "",
+          "tags": [
+            "歴史",
+            "文化"
+          ],
+          "timestamp": "2019/01/01 04:31"
+        },
+        {
+          "user": "kyafupaca",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2019/01/01 03:52"
+        },
+        {
+          "user": "skmt164",
+          "tags": [],
+          "comment": "もえもえでどきどきなバーチャルYouTuber",
+          "timestamp": "2019/01/01 03:19"
+        },
+        {
+          "user": "bigant1200s",
+          "timestamp": "2019/01/01 03:11",
+          "comment": "普段使いできていいねぇ",
+          "tags": []
+        },
+        {
+          "user": "B33Tark",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2019/01/01 03:05"
+        },
+        {
+          "user": "IGA-OS",
+          "timestamp": "2019/01/01 03:03",
+          "comment": "MODに組込むクラスタと、3Dプリンタで実物を作るクラスタは被ってない気がする",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 03:03",
+          "user": "xxxxxxxxlarge"
+        },
+        {
+          "user": "cvl-robot",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2019/01/01 02:35"
+        },
+        {
+          "timestamp": "2019/01/01 02:11",
+          "tags": [],
+          "comment": "ええな",
+          "user": "pochi-mk"
+        },
+        {
+          "timestamp": "2019/01/01 01:56",
+          "tags": [],
+          "comment": "",
+          "user": "mangakoji"
+        },
+        {
+          "user": "cheapcode",
+          "timestamp": "2019/01/01 01:49",
+          "tags": [],
+          "comment": "ウサギ、ティーポット、龍の置物に続くデファクトになるか。"
+        },
+        {
+          "comment": "",
+          "tags": [],
+          "timestamp": "2019/01/01 01:47",
+          "user": "furuhatachang"
+        },
+        {
+          "comment": "",
+          "tags": [],
+          "timestamp": "2019/01/01 01:46",
+          "user": "schrift"
+        },
+        {
+          "user": "jme19888",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2019/01/01 01:21"
+        },
+        {
+          "timestamp": "2019/01/01 01:12",
+          "tags": [],
+          "comment": "土器のギャルゲーが新年初笑いになってしまった",
+          "user": "yuzutas0"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "timestamp": "2019/01/01 01:02",
+          "user": "yamifuu"
+        },
+        {
+          "user": "Journey",
+          "comment": "土偶もデータ欲しい",
+          "tags": [
+            "美術"
+          ],
+          "timestamp": "2019/01/01 00:56"
+        },
+        {
+          "user": "Red-Comet",
+          "tags": [],
+          "comment": "unityで土器のギャルゲー作りたい。",
+          "timestamp": "2019/01/01 00:41"
+        },
+        {
+          "user": "yihigashi",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2019/01/01 00:26"
+        },
+        {
+          "timestamp": "2019/01/01 00:22",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "pinkroot"
+        },
+        {
+          "tags": [],
+          "comment": "めでたい",
+          "timestamp": "2019/01/01 00:19",
+          "user": "misarine3"
+        },
+        {
+          "user": "bigrice",
+          "timestamp": "2019/01/01 00:06",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": ""
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2018/12/31 23:59",
+          "user": "kazikin_pukapuka"
+        },
+        {
+          "timestamp": "2018/12/31 23:58",
+          "comment": "手工芸品の代表作が大量生産可能に。",
+          "tags": [
+            "データ",
+            "美術",
+            "文化",
+            "歴史"
+          ],
+          "user": "utibori1"
+        },
+        {
+          "user": "gendou",
+          "timestamp": "2018/12/31 23:55",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "user": "fm315",
+          "timestamp": "2018/12/31 23:51",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "timestamp": "2018/12/31 23:50",
+          "comment": "",
+          "tags": [],
+          "user": "Unimmo"
+        },
+        {
+          "user": "dowhile",
+          "timestamp": "2018/12/31 23:47",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "tags": [
+            "歴史",
+            "文化",
+            "3D",
+            "オープンソース"
+          ],
+          "comment": "もとの土器作った人も、遥か未来の世界でこんな事になろうとは、想像もしなかったろうなぁ。",
+          "timestamp": "2018/12/31 23:45",
+          "user": "neko2bo"
+        },
+        {
+          "user": "apipix",
+          "tags": [],
+          "comment": "これはドキッ！",
+          "timestamp": "2018/12/31 23:32"
+        },
+        {
+          "timestamp": "2018/12/31 23:31",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "FFF"
+        },
+        {
+          "timestamp": "2018/12/31 23:29",
+          "comment": "",
+          "tags": [],
+          "user": "stkyk"
+        },
+        {
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 23:28",
+          "user": "cashmerebear"
+        },
+        {
+          "user": "raugisu",
+          "timestamp": "2018/12/31 23:28",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 23:22",
+          "user": "AspergerSyndrome"
+        },
+        {
+          "timestamp": "2018/12/31 23:19",
+          "tags": [],
+          "comment": "",
+          "user": "ni_can"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2018/12/31 23:16",
+          "user": "yukimori_726"
+        },
+        {
+          "tags": [],
+          "comment": "今うちの会社で使ってる土器、ライセンス料が高いから移行しようかな",
+          "timestamp": "2018/12/31 23:10",
+          "user": "h1roto"
+        },
+        {
+          "user": "laislanopira",
+          "comment": "",
+          "tags": [
+            "新潟",
+            "歴史"
+          ],
+          "timestamp": "2018/12/31 22:29"
+        },
+        {
+          "user": "zexxex",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 22:21"
+        },
+        {
+          "user": "Windymelt",
+          "comment": "MMDに出そう",
+          "tags": [],
+          "timestamp": "2018/12/31 22:18"
+        },
+        {
+          "timestamp": "2018/12/31 22:17",
+          "tags": [],
+          "comment": "",
+          "user": "kohgethu"
+        },
+        {
+          "user": "tarotarorg",
+          "timestamp": "2018/12/31 22:14",
+          "tags": [
+            "3D"
+          ],
+          "comment": ""
+        },
+        {
+          "timestamp": "2018/12/31 22:05",
+          "comment": "DOKI☆DOKI",
+          "tags": [],
+          "user": "thnn"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 22:05",
+          "user": "snowlong"
+        },
+        {
+          "user": "ooo0o",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 21:42"
+        },
+        {
+          "user": "nagaichi",
+          "tags": [
+            "ネット",
+            "文物"
+          ],
+          "comment": "レプリカ火焔土器が作られるのは、教育か趣味か新たな芸術のためか。個人で3Dプリンタ持ってる人は、まだ少ないと思うけど。",
+          "timestamp": "2018/12/31 21:33"
+        },
+        {
+          "tags": [],
+          "comment": "ゼルダのガーディアン二次創作が捗る",
+          "timestamp": "2018/12/31 21:29",
+          "user": "marumann"
+        },
+        {
+          "user": "tokishi48",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 21:29"
+        },
+        {
+          "tags": [
+            "history"
+          ],
+          "comment": "ミドナがいっぱい！",
+          "timestamp": "2018/12/31 21:19",
+          "user": "foxintheforest"
+        },
+        {
+          "timestamp": "2018/12/31 21:18",
+          "comment": "",
+          "tags": [],
+          "user": "notio"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 21:18",
+          "user": "neco22b"
+        },
+        {
+          "user": "nonorth",
+          "comment": "いる",
+          "tags": [],
+          "timestamp": "2018/12/31 21:08"
+        },
+        {
+          "user": "tomoya5",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2018/12/31 21:04"
+        },
+        {
+          "user": "norteak000",
+          "timestamp": "2018/12/31 20:51",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "user": "sw1227",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 20:34"
+        },
+        {
+          "user": "mirinha20kara",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2018/12/31 20:34"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 20:26",
+          "user": "rain-tree"
+        },
+        {
+          "timestamp": "2018/12/31 20:22",
+          "tags": [],
+          "comment": "",
+          "user": "mur2"
+        },
+        {
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2018/12/31 20:18",
+          "user": "Tatada"
+        },
+        {
+          "timestamp": "2018/12/31 20:10",
+          "tags": [],
+          "comment": "",
+          "user": "gyampy"
+        },
+        {
+          "user": "sukeroc",
+          "timestamp": "2018/12/31 19:52",
+          "tags": [],
+          "comment": "助かる"
+        },
+        {
+          "user": "n_231",
+          "timestamp": "2018/12/31 19:48",
+          "comment": "マグカップに欲しい",
+          "tags": []
+        },
+        {
+          "comment": "被るのはデビルマンネタでしたっけ……",
+          "tags": [],
+          "timestamp": "2018/12/31 19:47",
+          "user": "babelap"
+        },
+        {
+          "user": "rururutea",
+          "timestamp": "2018/12/31 19:34",
+          "tags": [],
+          "comment": "未来人「21世紀の地層から、やたらと土器が発掘される？？？？」"
+        },
+        {
+          "user": "yasuhiro1212",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2018/12/31 19:34"
+        },
+        {
+          "user": "tkysktmt",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 19:34"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 19:27",
+          "user": "gyu-tang"
+        },
+        {
+          "user": "t_ita",
+          "timestamp": "2018/12/31 19:24",
+          "comment": "こういうオープンソース良いな。ぜひ3Dプリントしたい",
+          "tags": []
+        },
+        {
+          "user": "luxsuperpoor",
+          "timestamp": "2018/12/31 19:07",
+          "comment": "やめなされ",
+          "tags": []
+        },
+        {
+          "user": "kukky",
+          "timestamp": "2018/12/31 19:05",
+          "comment": "はい作ります〜",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "ちょうど欲しかったんですよー。",
+          "timestamp": "2018/12/31 19:03",
+          "user": "teto2645"
+        },
+        {
+          "timestamp": "2018/12/31 18:58",
+          "tags": [
+            "ネタ"
+          ],
+          "comment": "ドキドキする。",
+          "user": "Itti-nino3"
+        },
+        {
+          "user": "SPIRIT_PHOENIX",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 18:52"
+        },
+        {
+          "comment": "早速SkyrimのModになっていたのを見て、オープンソースで公開されている事を知った。ちなみに被れる。",
+          "tags": [],
+          "timestamp": "2018/12/31 18:48",
+          "user": "megazalrock"
+        },
+        {
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 18:46",
+          "user": "tidei"
+        },
+        {
+          "user": "floa",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 18:38"
+        },
+        {
+          "user": "tuki0918",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 18:31"
+        },
+        {
+          "user": "zakki_51",
+          "timestamp": "2018/12/31 18:30",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "timestamp": "2018/12/31 18:29",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "yamataku13"
+        },
+        {
+          "user": "comma3",
+          "timestamp": "2018/12/31 18:27",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "user": "narita1980",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2018/12/31 18:24"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 18:21",
+          "user": "machine0728"
+        },
+        {
+          "user": "morstart",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2018/12/31 18:16"
+        },
+        {
+          "timestamp": "2018/12/31 17:56",
+          "comment": "便利そう",
+          "tags": [],
+          "user": "masawada"
+        },
+        {
+          "timestamp": "2018/12/31 17:44",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "youchan40"
+        },
+        {
+          "user": "o-v-o",
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 17:36"
+        },
+        {
+          "user": "mandel59",
+          "timestamp": "2018/12/31 17:31",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "user": "daiki_17",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 17:04"
+        },
+        {
+          "user": "sgo2",
+          "timestamp": "2018/12/31 16:50",
+          "comment": "無償なので火焔(買えん)",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "timestamp": "2018/12/31 16:33",
+          "user": "hexcap"
+        },
+        {
+          "user": "behuckleberry02",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 16:31"
+        },
+        {
+          "tags": [
+            "design",
+            "ダウンロード",
+            "文化"
+          ],
+          "comment": "",
+          "timestamp": "2018/12/31 16:15",
+          "user": "fumirui"
+        },
+        {
+          "user": "todayisagooddayforstart",
+          "timestamp": "2018/12/31 15:38",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "user": "gfx",
+          "tags": [],
+          "comment": "3Dプリンタで出力し放題ってこと！？",
+          "timestamp": "2018/12/31 15:05"
+        },
+        {
+          "user": "cj3029412",
+          "timestamp": "2018/12/31 15:00",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "timestamp": "2018/12/31 14:56",
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "user": "kaos2009"
+        },
+        {
+          "user": "oddvolume",
+          "comment": "",
+          "tags": [],
+          "timestamp": "2018/12/31 14:53"
+        },
+        {
+          "comment": "ZBrushのお手本みたい",
+          "tags": [
+            "3DCG",
+            "歴史"
+          ],
+          "timestamp": "2018/12/31 14:50",
+          "user": "pribetch"
+        },
+        {
+          "timestamp": "2018/12/31 14:43",
+          "comment": "",
+          "tags": [],
+          "user": "advblog"
+        },
+        {
+          "timestamp": "2018/12/31 14:40",
+          "tags": [],
+          "comment": "テスト印刷とかベンチマークに良さそうな",
+          "user": "cartman0"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "comment": "",
+          "timestamp": "2018/12/31 14:37",
+          "user": "kincity"
+        },
+        {
+          "timestamp": "2018/12/31 14:28",
+          "tags": [],
+          "comment": "遮光器土偶も是非。",
+          "user": "thirty206"
+        },
+        {
+          "comment": "",
+          "tags": [
+            "データ",
+            "technology",
+            "文化",
+            "history",
+            "design"
+          ],
+          "timestamp": "2018/12/31 14:24",
+          "user": "mk16"
+        },
+        {
+          "user": "lib_portal",
+          "timestamp": "2018/12/31 14:05",
+          "tags": [],
+          "comment": ""
+        },
+        {
+          "user": "TAKAPPRS",
+          "timestamp": "2018/12/31 10:36",
+          "tags": [],
+          "comment": "これは！w"
+        },
+        {
+          "timestamp": "2018/12/31 10:35",
+          "tags": [
+            "Design",
+            "Technology",
+            "History"
+          ],
+          "comment": "3Dプリントしたい♪w",
+          "user": "saharamakoto"
+        }
+      ],
+      "requested_url": "https://bijutsutecho.com/magazine/news/headline/19085",
+      "title": "火焔土器の3Dデータをオープンソース化。誰でも無償で利用可能に｜美術手帖",
+      "count": 189
+    },
+    {
+      "bookmarks": [
+        {
+          "user": "kyo_ago",
+          "comment": "",
+          "timestamp": "2019/11/13 15:25",
+          "tags": [
+            "サービス",
+            "本",
+            "情報",
+            "プログラム",
+            "サービス終了",
+            "amazon",
+            "書籍",
+            "webサービス"
+          ]
+        },
+        {
+          "tags": [],
+          "comment": "ありがとうございました！amakan.net めちゃくちゃ便利でした！最近シリーズ物新刊購入を逃すようになって、完全に依存していたことに気付きました",
+          "user": "kakkun61",
+          "timestamp": "2019/02/05 18:13"
+        },
+        {
+          "comment": "",
+          "user": "J5a",
+          "timestamp": "2019/01/23 11:49",
+          "tags": []
+        },
+        {
+          "comment": "本当に残念…お疲れ様でした",
+          "user": "yoshitaku_jp",
+          "timestamp": "2019/01/07 18:18",
+          "tags": [
+            "amazon",
+            "webサービス",
+            "サービス終了"
+          ]
+        },
+        {
+          "tags": [
+            "webサービス",
+            "amazon"
+          ],
+          "comment": "Amazon側で実装してくれればいいのにね",
+          "user": "field_combat",
+          "timestamp": "2019/01/06 22:53"
+        },
+        {
+          "tags": [
+            "amazon",
+            "webサービス"
+          ],
+          "timestamp": "2019/01/06 16:38",
+          "comment": "",
+          "user": "shaw"
+        },
+        {
+          "tags": [
+            "amazon"
+          ],
+          "timestamp": "2019/01/05 21:33",
+          "user": "kenichiice",
+          "comment": ""
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/04 12:31",
+          "user": "karumado",
+          "comment": ""
+        },
+        {
+          "comment": "",
+          "user": "a-know",
+          "timestamp": "2019/01/03 18:09",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "luvsik",
+          "timestamp": "2019/01/03 10:07",
+          "tags": [
+            "amazon"
+          ]
+        },
+        {
+          "comment": "",
+          "user": "mitukiii",
+          "timestamp": "2019/01/03 06:04",
+          "tags": []
+        },
+        {
+          "tags": [
+            "amazon"
+          ],
+          "user": "jazzanova",
+          "comment": "",
+          "timestamp": "2019/01/03 01:19"
+        },
+        {
+          "timestamp": "2019/01/03 00:57",
+          "comment": "",
+          "user": "amazedkoumei",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/03 00:40",
+          "user": "dnsystem",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "comment": "厳しい",
+          "user": "koogawa",
+          "timestamp": "2019/01/03 00:28",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "お疲れ様でした、（ただamakan上でいつサービス閉めるか告知して欲しかった）",
+          "user": "Coro",
+          "timestamp": "2019/01/03 00:10"
+        },
+        {
+          "user": "mizchi",
+          "comment": "懲罰的",
+          "timestamp": "2019/01/02 21:57",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "ohchang",
+          "timestamp": "2019/01/02 21:23",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/02 08:32",
+          "user": "sisya",
+          "comment": "記事中でも言及されている通り、amazonはシリーズを追うことが限りなく難しいというか、なぜこの実装で客が離れないのかと不思議に思うことが多々ある。個人的にamazonをあまり使わない理由そのものだったりする。",
+          "tags": []
+        },
+        {
+          "user": "karia",
+          "comment": "",
+          "timestamp": "2019/01/02 02:57",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "peketamin",
+          "timestamp": "2019/01/02 00:52"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "uk-ar",
+          "comment": "",
+          "timestamp": "2019/01/02 00:20"
+        },
+        {
+          "user": "sonota88",
+          "comment": "",
+          "timestamp": "2019/01/01 23:32",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 23:05",
+          "comment": "",
+          "user": "cubed-l",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "prrknh",
+          "timestamp": "2019/01/01 22:16",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 22:06",
+          "comment": "",
+          "user": "alexam",
+          "tags": [
+            "amazon"
+          ]
+        },
+        {
+          "tags": [
+            "WebService"
+          ],
+          "user": "k_hamada_1988",
+          "comment": "",
+          "timestamp": "2019/01/01 21:43"
+        },
+        {
+          "timestamp": "2019/01/01 20:40",
+          "comment": "",
+          "user": "tikkss",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "comment": "",
+          "user": "Hiro_Matsuno",
+          "timestamp": "2019/01/01 20:26",
+          "tags": []
+        },
+        {
+          "user": "Pasta-K",
+          "comment": "",
+          "timestamp": "2019/01/01 20:00",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "ymrl",
+          "comment": "",
+          "timestamp": "2019/01/01 19:23"
+        },
+        {
+          "timestamp": "2019/01/01 19:16",
+          "user": "meech",
+          "comment": "ふええええ。booklive に移る理由がまたひとつ",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 19:16",
+          "comment": "",
+          "user": "tokishi48"
+        },
+        {
+          "timestamp": "2019/01/01 18:59",
+          "comment": "",
+          "user": "yasuhiro1212",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 18:20",
+          "comment": "“運営からのメール「規約違反‥‥登録のサイトURL情報を最新にせず未届けのサイトURLでアソシエイトリンクを使用」。ドメイン変更後の登録忘れてたので情報を更新し連絡したが停止。再登録手続き何度しても無反応”",
+          "user": "yarumato"
+        },
+        {
+          "comment": "",
+          "user": "ame774",
+          "timestamp": "2019/01/01 17:52",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "dpus",
+          "timestamp": "2019/01/01 17:49",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "panizzi",
+          "comment": "",
+          "timestamp": "2019/01/01 17:39"
+        },
+        {
+          "tags": [
+            "amazon"
+          ],
+          "timestamp": "2019/01/01 17:35",
+          "comment": "",
+          "user": "ombran"
+        },
+        {
+          "timestamp": "2019/01/01 17:29",
+          "user": "narita1980",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [
+            "amazon"
+          ],
+          "user": "batta",
+          "comment": "",
+          "timestamp": "2019/01/01 17:14"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "frozen_faithjp",
+          "timestamp": "2019/01/01 16:49"
+        },
+        {
+          "timestamp": "2019/01/01 16:47",
+          "user": "yuusuke0107",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 16:43",
+          "comment": "",
+          "user": "chankuri",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "user": "hirokts",
+          "comment": "",
+          "timestamp": "2019/01/01 16:30"
+        },
+        {
+          "tags": [],
+          "user": "kirine",
+          "comment": "",
+          "timestamp": "2019/01/01 16:21"
+        },
+        {
+          "timestamp": "2019/01/01 16:13",
+          "user": "takasago08",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 16:00",
+          "user": "htnmiki",
+          "comment": "他人が拡張作るとアフィサイト潰せるのか",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "takuti",
+          "timestamp": "2019/01/01 15:46"
+        },
+        {
+          "comment": "Amazonの塩対応 → データの取得(INPUT)とその利用方法(OUTPUT)には注意/工夫が必要？　Amazonに迷惑をかけたらBANされて復活なし？　\"発売日を自動で収集　配信するサービス　未届けのサイトURLでアソシエイトリンクの使用\"",
+          "user": "jsstudy",
+          "timestamp": "2019/01/01 15:45",
+          "tags": [
+            "API"
+          ]
+        },
+        {
+          "tags": [],
+          "user": "khtokage",
+          "comment": "私も同じようにアソシエイトID蹴られて、サーバ代でマイナスになるからいいやと止めちゃったサービスあるなぁ。",
+          "timestamp": "2019/01/01 14:52"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 14:51",
+          "comment": "ふむ",
+          "user": "iwanofsky"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "ohnishiakira",
+          "timestamp": "2019/01/01 14:45"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "user": "tatatayou",
+          "comment": "",
+          "timestamp": "2019/01/01 14:36"
+        },
+        {
+          "user": "areant",
+          "comment": "",
+          "timestamp": "2019/01/01 14:16",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 14:10",
+          "user": "tyage",
+          "comment": ""
+        },
+        {
+          "tags": [
+            "amazon"
+          ],
+          "timestamp": "2019/01/01 14:07",
+          "user": "yururit",
+          "comment": ""
+        },
+        {
+          "comment": "",
+          "user": "threeMonths",
+          "timestamp": "2019/01/01 13:46",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "YAA",
+          "timestamp": "2019/01/01 13:45"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "Foorier",
+          "timestamp": "2019/01/01 13:14"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "aikawame",
+          "timestamp": "2019/01/01 13:01"
+        },
+        {
+          "timestamp": "2019/01/01 12:54",
+          "comment": "",
+          "user": "asayamakk",
+          "tags": []
+        },
+        {
+          "user": "hotu_ta",
+          "comment": "",
+          "timestamp": "2019/01/01 12:50",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 12:50",
+          "comment": "",
+          "user": "sakura_bird1",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 12:42",
+          "user": "u1tnk",
+          "comment": "仕方無いが残念な話。今までサービス提供ありがとうございました。"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 12:35",
+          "comment": "",
+          "user": "fa11enprince"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 12:35",
+          "comment": "",
+          "user": "hokkey"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 12:19",
+          "comment": "",
+          "user": "imabayashi"
+        },
+        {
+          "user": "albacore",
+          "comment": "",
+          "timestamp": "2019/01/01 12:18",
+          "tags": []
+        },
+        {
+          "tags": [
+            "本",
+            "漫画"
+          ],
+          "timestamp": "2019/01/01 12:17",
+          "user": "mizdra",
+          "comment": "お疲れ様でした！"
+        },
+        {
+          "tags": [],
+          "user": "igatea",
+          "comment": "",
+          "timestamp": "2019/01/01 12:16"
+        },
+        {
+          "comment": "",
+          "user": "og24715",
+          "timestamp": "2019/01/01 12:09",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 12:08",
+          "user": "apipix",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "hakobe932",
+          "timestamp": "2019/01/01 12:06"
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 12:05",
+          "user": "tourmalinecatseye",
+          "comment": ""
+        },
+        {
+          "user": "shigo405",
+          "comment": "",
+          "timestamp": "2019/01/01 12:02",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "知見がある",
+          "user": "otihateten3510",
+          "timestamp": "2019/01/01 12:01"
+        },
+        {
+          "tags": [],
+          "user": "gennei",
+          "comment": "",
+          "timestamp": "2019/01/01 11:55"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "hisaichi5518",
+          "timestamp": "2019/01/01 11:54"
+        },
+        {
+          "timestamp": "2019/01/01 11:49",
+          "comment": "",
+          "user": "L3msh0",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 11:39",
+          "user": "mooonymann",
+          "comment": ""
+        },
+        {
+          "timestamp": "2019/01/01 11:35",
+          "user": "jitsuzon",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "quodius",
+          "timestamp": "2019/01/01 11:30",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "morygonzalez",
+          "comment": "",
+          "timestamp": "2019/01/01 11:28"
+        },
+        {
+          "user": "nitamago_monster",
+          "comment": "",
+          "timestamp": "2019/01/01 11:27",
+          "tags": []
+        },
+        {
+          "comment": "amazonに限らないけど外資のサポートの品質低いことが多い",
+          "user": "mirai-iro",
+          "timestamp": "2019/01/01 11:14",
+          "tags": [
+            "一強になると腐敗する"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 11:11",
+          "comment": "",
+          "user": "vamview",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 11:08",
+          "user": "yag_ays",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 11:05",
+          "comment": "",
+          "user": "sudo_vi",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 11:03",
+          "user": "ishiduca",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "tags": [
+            "Amazon"
+          ],
+          "user": "maricar9710",
+          "comment": "",
+          "timestamp": "2019/01/01 10:58"
+        },
+        {
+          "timestamp": "2019/01/01 10:54",
+          "user": "tsimo",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 10:53",
+          "comment": "",
+          "user": "narukami",
+          "tags": [
+            "Webサービス"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 10:52",
+          "comment": "これで新刊買わなくなったりbooklive, book waker使ったりする人が増えるのなら、Amazonは馬鹿なことをしたなあ",
+          "user": "takc923",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 10:43",
+          "comment": "お疲れ様様でした！！！",
+          "user": "sue445"
+        },
+        {
+          "user": "tagomoris",
+          "comment": "お疲れさまでした！ 自分も代替困るんだけどとりあえず本屋の周回頻度を増やした",
+          "timestamp": "2019/01/01 10:38",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 10:32",
+          "comment": "",
+          "user": "Mint0A0yama"
+        },
+        {
+          "tags": [
+            "あとで読む",
+            "Amazon"
+          ],
+          "comment": "",
+          "user": "mununuiota",
+          "timestamp": "2019/01/01 10:26"
+        },
+        {
+          "comment": "見に行ったら503になってたのでびっくりした",
+          "user": "mtane0412",
+          "timestamp": "2019/01/01 10:24",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 10:11",
+          "comment": "",
+          "user": "mstk_knife",
+          "tags": []
+        },
+        {
+          "tags": [
+            "webサービス",
+            "文",
+            "ネット",
+            "本"
+          ],
+          "timestamp": "2019/01/01 09:55",
+          "user": "kumokaji",
+          "comment": ""
+        },
+        {
+          "tags": [],
+          "comment": "漫画に関してはほとんど BOOK☆WALKER で買うようになって、あれの新刊通知はちゃんと動いてくれるので困ってないがラノベの新刊が追えなくなって困ってる",
+          "user": "sora_h",
+          "timestamp": "2019/01/01 09:51"
+        },
+        {
+          "tags": [],
+          "user": "fuba",
+          "comment": "",
+          "timestamp": "2019/01/01 09:50"
+        },
+        {
+          "comment": "",
+          "user": "sagaraya",
+          "timestamp": "2019/01/01 09:50",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "teitei_tk",
+          "comment": "愛用していました。お世話になりました。",
+          "timestamp": "2019/01/01 09:50"
+        },
+        {
+          "timestamp": "2019/01/01 09:49",
+          "user": "nukosan555",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "user": "kamm",
+          "comment": "",
+          "timestamp": "2019/01/01 09:47"
+        },
+        {
+          "user": "nilab",
+          "comment": "「Google Chrome 拡張が違反内容に該当しているのだと推測しました。対応として、Mozilla Add-ons、および Google ウェブストアでの公開を停止」「Amazon アソシエイト・プログラムの利用が再開できることはありませんでした」",
+          "timestamp": "2019/01/01 09:47",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "rinsuki",
+          "timestamp": "2019/01/01 09:45"
+        },
+        {
+          "timestamp": "2019/01/01 09:45",
+          "comment": "",
+          "user": "fuji_haruka",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 09:42",
+          "user": "kksg",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "お疲れ様でした",
+          "user": "side_tana",
+          "timestamp": "2019/01/01 09:42"
+        },
+        {
+          "timestamp": "2019/01/01 09:37",
+          "user": "tofu-kun",
+          "comment": "",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "user": "invent",
+          "comment": "",
+          "timestamp": "2019/01/01 09:34",
+          "tags": []
+        },
+        {
+          "user": "toyoshi",
+          "comment": "おぉ、残念。戻してもらえるといいですね。/ 自分には有名で重要なサイトが、巨人側から見ると悪質なアフィリサイトと同じ大きさに見えてるという構図が悲しい。",
+          "timestamp": "2019/01/01 09:26",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "Ryanak",
+          "comment": "",
+          "timestamp": "2019/01/01 09:16"
+        },
+        {
+          "comment": "",
+          "user": "soh335",
+          "timestamp": "2019/01/01 08:58",
+          "tags": []
+        },
+        {
+          "tags": [
+            "あとで読む"
+          ],
+          "timestamp": "2019/01/01 08:51",
+          "comment": "",
+          "user": "hem6"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 08:50",
+          "user": "tjnet555",
+          "comment": ""
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 08:48",
+          "user": "Humangas",
+          "comment": ""
+        },
+        {
+          "tags": [],
+          "user": "maltesergeezer",
+          "comment": "",
+          "timestamp": "2019/01/01 08:45"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "tsumuchan",
+          "timestamp": "2019/01/01 08:41"
+        },
+        {
+          "tags": [],
+          "user": "kimihito",
+          "comment": "",
+          "timestamp": "2019/01/01 08:40"
+        },
+        {
+          "comment": "",
+          "user": "ant_mugi",
+          "timestamp": "2019/01/01 08:21",
+          "tags": [
+            "あとで読む"
+          ]
+        },
+        {
+          "tags": [],
+          "user": "tuki0918",
+          "comment": "",
+          "timestamp": "2019/01/01 08:08"
+        },
+        {
+          "comment": "Amazonアソシエイト・プログラムってサービス用のアカウントが停止されると個人ブログ用途だとしても新規登録できなくなるリスクあるんですね。",
+          "user": "gabuchan",
+          "timestamp": "2019/01/01 08:03",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "user": "questbeat",
+          "comment": "",
+          "timestamp": "2019/01/01 08:00"
+        },
+        {
+          "timestamp": "2019/01/01 07:49",
+          "user": "gin0606",
+          "comment": "お世話になりましたお疲れ様です。",
+          "tags": []
+        },
+        {
+          "comment": "",
+          "user": "NSTanechan",
+          "timestamp": "2019/01/01 07:47",
+          "tags": []
+        },
+        {
+          "tags": [
+            "amazon"
+          ],
+          "user": "griefworker",
+          "comment": "",
+          "timestamp": "2019/01/01 07:47"
+        },
+        {
+          "timestamp": "2019/01/01 07:46",
+          "user": "gfx",
+          "comment": "",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 07:36",
+          "comment": "",
+          "user": "kotsan"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 07:30",
+          "user": "sho_yamane",
+          "comment": ""
+        },
+        {
+          "user": "onesplat",
+          "comment": "せつなみ",
+          "timestamp": "2019/01/01 07:25",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "gendou",
+          "timestamp": "2019/01/01 07:12"
+        },
+        {
+          "user": "rumbaba",
+          "comment": "",
+          "timestamp": "2019/01/01 07:04",
+          "tags": []
+        },
+        {
+          "timestamp": "2019/01/01 06:12",
+          "user": "psne",
+          "comment": "本当にお疲れ様でした(拡張機能関連なども)。",
+          "tags": []
+        },
+        {
+          "user": "ngsw",
+          "comment": "",
+          "timestamp": "2019/01/01 04:39",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "shior718",
+          "timestamp": "2019/01/01 04:08"
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 03:54",
+          "comment": "",
+          "user": "atomicmap"
+        },
+        {
+          "timestamp": "2019/01/01 03:37",
+          "comment": "",
+          "user": "AKIMOTO",
+          "tags": [
+            "Amazon"
+          ]
+        },
+        {
+          "timestamp": "2019/01/01 02:53",
+          "comment": "",
+          "user": "oddvolume",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 01:54",
+          "user": "kw5",
+          "comment": ""
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "hazeblog",
+          "timestamp": "2019/01/01 01:50"
+        },
+        {
+          "tags": [],
+          "comment": "",
+          "user": "dowhile",
+          "timestamp": "2019/01/01 01:39"
+        },
+        {
+          "tags": [],
+          "user": "rAdio",
+          "comment": "",
+          "timestamp": "2019/01/01 01:36"
+        },
+        {
+          "user": "l08084",
+          "comment": "",
+          "timestamp": "2019/01/01 01:30",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "timestamp": "2019/01/01 00:53",
+          "comment": "“booklive”",
+          "user": "y_temp4"
+        },
+        {
+          "user": "aereal",
+          "comment": "お世話になりました。",
+          "timestamp": "2019/01/01 00:26",
+          "tags": []
+        }
+      ],
+      "eid": "4662508135191307681",
+      "title": "amakanサービス終了の経緯 | r7kamura on Patreon",
+      "requested_url": "https://www.patreon.com/posts/23653291",
+      "screenshot": "https://b.st-hatena.com/images/v4/public/common/noimage.png?version=a52e4ccd2b2801a8d572f58ac6e5486b5f1cfc4d",
+      "count": 192,
+      "entry_url": "https://b.hatena.ne.jp/entry/s/www.patreon.com/posts/23653291",
+      "url": "https://www.patreon.com/posts/23653291"
+    }
+  ]
+}

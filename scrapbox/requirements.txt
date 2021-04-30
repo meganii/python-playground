@@ -107,7 +107,7 @@ queuelib==1.4.2
 requests==2.17.3
 requestsexceptions==1.3.0
 rfc3986==1.1.0
-rsa==3.4.2
+rsa==4.7
 scikit-learn==0.19.0
 scipy==0.19.1
 scrapbox-python==0.0.2

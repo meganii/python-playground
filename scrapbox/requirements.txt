@@ -111,7 +111,7 @@ rsa==3.4.2
 scikit-learn==0.19.0
 scipy==0.19.1
 scrapbox-python==0.0.2
-Scrapy==1.4.0
+Scrapy==2.6.2
 selenium==3.4.2
 service-identity==17.0.0
 simplegeneric==0.8.1

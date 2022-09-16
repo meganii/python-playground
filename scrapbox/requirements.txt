@@ -67,7 +67,7 @@ osc-lib==1.7.0
 oslo.config==4.13.0
 oslo.i18n==3.18.0
 oslo.serialization==2.21.0
-oslo.utils==3.30.0
+oslo.utils==4.10.1
 pandas==0.20.2
 pandocfilters==1.4.1
 parsel==1.2.0
